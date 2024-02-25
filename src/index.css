@@ -17,6 +17,16 @@ body {
 .TwirlyPig:hover {
   transform: scale(1.5);
 }
+div.form {
+  display: block;
+  text-align: center;
+}
+form {
+  display : inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
 
 .navWrapper {
   margin-bottom: 2%;
